@@ -17,7 +17,7 @@ lib/bin/cfg
 lib/bin/hdr
 lib/bin/pyld
 config.js
-log.txt
+# log.txt
 
 # npm
 package-lock.json
